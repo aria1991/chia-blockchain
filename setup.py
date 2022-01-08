@@ -32,6 +32,7 @@ dependencies = [
     "dnslib==0.9.14",  # dns lib
     "typing-extensions==4.0.1",  # typing backports like Protocol and TypedDict
     "zstd==1.5.0.4",
+    "prometheus-client==0.12.0",
 ]
 
 upnp_dependencies = [
