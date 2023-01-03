@@ -28,7 +28,7 @@ dependencies = [
     "websockets==9.1",  # For use in wallet RPC and electron UI
     "click==7.1.2",  # For the CLI
     "dnspythonchia==2.2.0",  # Query DNS seeds
-    "watchdog==2.1.6",  # Filesystem event watching - watches keyring.yaml
+    "watchdog==2.2.1",  # Filesystem event watching - watches keyring.yaml
     "dnslib==0.9.19",  # dns lib
     "typing-extensions==4.3.0",  # typing backports like Protocol and TypedDict
     "zstd==1.5.0.4",
